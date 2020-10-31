@@ -35,5 +35,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhondieG/ecommerce_react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RhondieG/ecommerce_react/issues"
+  },
+  "homepage": "https://github.com/RhondieG/ecommerce_react#readme",
+  "description": ""
 }
