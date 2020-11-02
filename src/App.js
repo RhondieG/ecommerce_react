@@ -10,7 +10,6 @@ import Homepage from './pages/Homepage';
 import Registration from './pages/Registration';
 import './default.scss';
 
-
 function App() {
   return (
     <div className="App">
